@@ -1,0 +1,13 @@
+{
+  "name": "redux-slices",
+  "version": "1.0.0",
+  "description": "Scalable redux apps with reusable code",
+  "main": "index.js",
+  "repository": "git@github.com:imdkva/redux-slices.git",
+  "author": "imdkva <vadik.protasov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "redux": "^3.7.2"
+  }
+}
